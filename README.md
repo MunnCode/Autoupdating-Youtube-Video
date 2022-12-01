@@ -5,3 +5,9 @@ Tom Scott made a fantastic video which showed the number of views the video had 
 Moreover, you could also show the number of likes, dislikes, and comments in the title of the video which will dynamically update using the bot / script.
 
 This unfortunately does not work for YouTube Brand accounts. Trust me, this video title would be way cooler if that was the case.
+
+<a href="https://www.youtube.com/watch?v=JUowQv5BXHc">
+    <p align="center">
+        <img width="460" height="270" src="https://img.youtube.com/vi/JUowQv5BXHc/0.jpg" style="object-fit:cover;">
+    </p>
+</a>
