@@ -8,6 +8,6 @@ This unfortunately does not work for YouTube Brand accounts. Trust me, this vide
 
 <a href="https://www.youtube.com/watch?v=JUowQv5BXHc">
     <p align="center">
-        <img width="460" height="300" src="https://img.youtube.com/vi/JUowQv5BXHc/0.jpg" style="object-fit:contain;">
+        <img width="460" height="100%" src="https://img.youtube.com/vi/JUowQv5BXHc/0.jpg">
     </p>
 </a>
